@@ -16,7 +16,7 @@ Dr. Norman Borlaug - The man who saved a billion lives
 
 
 ## Website Preview
-![Alt Text]()
+![Alt Text](https://github.com/nick2498/tribute-site/blob/main/Project_Sreeenshot.jpeg)
 
 
 ## Creator
