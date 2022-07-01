@@ -5,7 +5,7 @@
 Dr. Norman Borlaug - The man who saved a billion lives
 
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"
     width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
