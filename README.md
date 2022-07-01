@@ -1,8 +1,9 @@
 # Tribute Site
 
-## About
 
+## About
 Dr. Norman Borlaug - The man who saved a billion lives
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -15,12 +16,17 @@ Dr. Norman Borlaug - The man who saved a billion lives
 
 ## Project Link
 
-## Website Preview
 
 ## Creator
-👨‍💻 Naitik Gupta </br>
-🌴 Linktree: https://linktr.ee/inaitikgupta
+👨‍💻 Naitik Gupta
+
+## Linktree🌴
+https://linktr.ee/inaitikgupta
 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Website Preview
+![Alt](https://github.com/nick2498/tribute-site/blob/main/Project_Sreeenshot.jpeg)
