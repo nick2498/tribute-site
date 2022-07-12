@@ -10,7 +10,7 @@ body {
   line-height: 1.5;
   letter-spacing: 1px;
   text-align: center;
-  color: #fff;
+  color: #edf0f1;
   margin: 0;
 }
 
@@ -39,7 +39,7 @@ a {
 }
 
 a:hover {
-  color: #1500ff;
+  color: #0088ae;
 }
 
 #main {
@@ -48,26 +48,16 @@ a:hover {
   /* border-radius: #eee; */
 }
 
-img {
+#image {
   max-width: 100%;
-  display: flex;
   height: auto;
   margin: auto;
+  opacity: 0.8;
 }
-
-/* #img-div {
-  background: rgb(204, 204, 204);
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  padding: 30px;
-  margin: 0;
-} */
 
 #img-caption {
   margin: 35px 4px 0px 0;
-  font-size: 1.5rem;
+  font-size: 1.6rem;
 }
 
 #headline {
@@ -98,10 +88,35 @@ blockquote {
   text-align: left;
 }
 
-@media (max-width: 460px) {
-  h1 {
-    font-size: 3.5rem;
+/* Tablets and under */
+@media (max-width: 768px) {
+  #title {
+    font-size: 4.6rem;
+    letter-spacing: 4px;
+  }
+
+  #sub-title {
+    font-size: 2.2rem;
+    letter-spacing: 2px;
+  }
+
+  #headline {
+    font-size: 2.5rem;
+    letter-spacing: 1.5px;
+  }
+}
+
+/* Mobile */
+@media (max-width: 500px) {
+  #title {
+    font-size: 4rem;
     line-height: 1.2;
+    letter-spacing: 1px;
+  }
+
+  #sub-title {
+    font-size: 2rem;
+    letter-spacing: 1px;
   }
 
   #main {
@@ -110,5 +125,11 @@ blockquote {
 
   #headline {
     margin: 35px 0 25px 0;
+    font-size: 2.5rem;
+    letter-spacing: 2px;
+  }
+
+  blockquote {
+    margin: 0px 25px;
   }
 }
