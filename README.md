@@ -31,4 +31,4 @@ https://linktr.ee/inaitikgupta
 
 ## Website Preview
 
-![Alt](https://github.com/nick2498/tribute-site/blob/main/Project_Screenshot.png)
+![Alt](https://github.com/nick2498/tribute-site/blob/main/src/images/screenshots/Project_Screenshot.png)
